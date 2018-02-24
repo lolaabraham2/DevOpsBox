@@ -6,5 +6,8 @@
 * Terraform
 * AWS CLI
 * Ansible
+* Packer
+* Docker
+* Python
 
 # This scripts need more improvement. You can contribute to make it more efficient.
