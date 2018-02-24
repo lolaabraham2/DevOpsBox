@@ -11,4 +11,4 @@ IMP Commands:
 * AWS CLI
 * Ansible
 
-# This scripts need more improvment. You can contribute to make it more efficient.
+# This scripts need more improvement. You can contribute to make it more efficient.
